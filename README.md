@@ -11,10 +11,11 @@ activity and the most recent calls.
 
 ## What it looks like
 
+![tokps dashboard — throughput p50/p90/max per model, daily activity and latest calls](assets/Screenshot.png)
+
 Dark, minimal, mobile-friendly: summary tables (p50 / p90 / max tok/s per
 model), daily activity, and a tail of the latest calls with tool time and
-finish reason. All texts in English, numbers in international format — ready
-for screenshots.
+finish reason. All texts in English, numbers in international format.
 
 ## The metric (read this first)
 
